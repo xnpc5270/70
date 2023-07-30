@@ -1,7 +1,7 @@
 {
     "urls": [  
         {
-            "url": "http://饭太硬.ml/tv",
+            "url": " http://饭太硬.top/tv",
             "name": "饭太硬"
         },
         {
@@ -57,8 +57,8 @@
            "name": "乱世"
         },	
         {
-            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
-            "name": "俊于①"      
+            "url": "https://gitee.com/yyfxz/yyfx/raw/yyfx/api.json",
+            "name": "业余打发"      
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -83,35 +83,19 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
             "name": "𝐹𝑜𝓃𝑔𝑀𝒾18"
-        },		
-        {
-            "url": "https://app.easybox.vip/dy",
-            "name": "Easybox"
-        },		
-        {
-            "url": "https://4kal.netlify.app/s.json",
-            "name": "Lan同学"
-        },
-        {
-            "url": "http://111.67.196.181/",
-            "name": "MeowTV"
-        },
+        },			
         {
             "name": "荷城茶秀",
-            "url": "http://rihou.cc:99/荷城茶秀"
+            "url": "http://rihou.cc:88/荷城茶秀"
             },
         {
-            "name": "荷城运输",
-            "url": "https://ysc.weixine.net:99/荷城茶秀"
+            "name": "小胡分享",
+            "url": "http://xzam.cn:66/tv"
         },
         {
             "name": "少儿频道",
             "url": "https://d.looks.wang/夜猫子少儿频道"
         },
-        {
-            "url": "https://la.kstore.space/download/3376/xpg.txt",
-            "name": "小苹果"
-        },		
         {
             "url": "https://yydsys.top/duo",
             "name": "应用多多"
@@ -132,10 +116,6 @@
             "url": "http://dxawi.github.io/0/0.json",
             "name": "Dxawi"
         },		
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "运输车①"
-        },
                 {
             "url": "http://ysc.weixine.net:33/",
             "name": "运输车②"
@@ -144,10 +124,6 @@
             "name": "牛楞哥",
             "url": "http://yingshi.fongmi.eu.org"
         },        
-        {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "月光宝盒"
-        },
         {
             "url": "https://download.kstore.space/download/3313/mao/ymz",
             "name": "夜猫子"
@@ -159,30 +135,6 @@
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "云星日记"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8",
-            "name": "云星哔哩"
-        },		
-        {
-            "url": "https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json",
-            "name": "喵影视①"
-        },
-        {
-            "url": "http://miaotvs.cn/meow",
-            "name": "喵影视②"
-        },
-        {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "CH猫友(在线)"
-        },		
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "老刘备"
-        },
-        {
-            "url": "https://la.kstore.space/download/2883/0110.txt",
-            "name": "蚂蚁论坛"
         }
 
     ]
